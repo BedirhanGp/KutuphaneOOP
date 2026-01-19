@@ -1,0 +1,2 @@
+1,Bedo,Bedirhan,7,70,10
+2,Savaş,Asus,30,40,5
